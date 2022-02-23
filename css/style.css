@@ -651,13 +651,65 @@ ul.portfolio li.active {
     border-radius: 4px;
 }
 
+/* education */
 
+.educationdiploma {
+	background:#f8f8f8;
+    align-items: center;
+}
+.educationdiploma .container{
+	padding-top:65px ;
+	padding-bottom:0 ;
+	margin-bottom:-20px;
+    align-items: center;
+}
+
+.myexperties {
+	background:#fff;
+}
+.myexperties .container{
+	padding-top:67px ;
+	padding-bottom:0 ;
+	margin-bottom:-20px;
+}
+.expertiesico {
+	padding:70px 63px 70px 0;
+	text-align:right;
+	font-family:'Crimson Text',serif;
+	font-size:21px;
+	line-height:24px;
+	color:#5b4c5c;
+	font-style:italic;
+}
+.expertiesdesc {
+	border-left:2px solid #ada5ad;
+	padding:0 0 0 69px;
+	margin-bottom:100px;
+}
+.expertiesdesc p {
+	padding-bottom:0;
+}
+.expertiesdesc h4 {
+	font-size:14px;
+	font-weight:300;
+	color:#423c92;
+	line-height:normal;
+	text-transform:uppercase;
+	letter-spacing:2px;
+}
+.expertiesdesc h5 {
+	font-family: 'Crimson Text', serif;
+	color:#5b4c5c;
+	font-size:18px;
+	font-style:italic;
+	font-weight:400;
+}
 
 /* Statistics */
 
 .statistics-section {
 	position: relative;
-    background: url(../images/bg/statistics.jpg);
+    background: url(../images/bg/stats.jpg);
     background-size: cover;
     z-index: 1;
 }
