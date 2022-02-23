@@ -11,7 +11,7 @@
    7. Parallax Background
    8. Portfolio Filtering
    9. Magnific Popup
-  10. Testimonial Carousel/Slider
+  10. experience Carousel/Slider
   11. Statistics Counter
   12. Google Map
 
@@ -161,9 +161,9 @@
 
 
 
-        /* Testimonial Carousel/Slider */
+        /* experience Carousel/Slider */
 
-        $(".testimonial-carousel-list").owlCarousel({
+        $(".experience-carousel-list").owlCarousel({
             items: 1,
             autoPlay: true,
             stopOnHover: false,
