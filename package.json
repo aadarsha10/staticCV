@@ -1,0 +1,19 @@
+{
+  "name": "staticcv_aadarsha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aadarsha10/staticCV.git"
+  },
+  "author": "aadarsha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aadarsha10/staticCV/issues"
+  },
+  "homepage": "https://github.com/aadarsha10/staticCV#readme"
+}

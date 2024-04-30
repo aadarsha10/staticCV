@@ -97,7 +97,7 @@
         // from typed.js library
         $(window).load(function () {
             $(".typing").typed({
-                strings: ["I am an Avid Learner.", "I love to Travel.", "I love to experience new things."],    /* Change as necessary to the times, creating new statememts for me*/
+                strings: ["I am an Avid Learner.", "I love to Travel.", "I love to experience the new."],    /* Change as necessary to the times, creating new statememts for me*/
                 typeSpeed: 70,
                 loop: true,
                 loopcount: Infinity,
